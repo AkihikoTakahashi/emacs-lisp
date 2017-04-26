@@ -3,7 +3,7 @@
 ;; Copyright (C)
 
 ;; Author: Akihiko Takahashi
-;; Version: 0.1
+;; Version: 1.0
 ;; Created: 2017-04-25
 ;; Keywords: backup
 
